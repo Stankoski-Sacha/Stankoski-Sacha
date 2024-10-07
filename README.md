@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Stankoski-Sacha
+-I'm a programmer against my will HELP MEEEEEE
+-We'll be replaced by AI anyway :(
+-huh idk what to put so hum the end?
