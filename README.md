@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @Stankoski-Sacha
--I'm a programmer against my will HELP MEEEEEE
+👋 Hi, I’m @Stankoski-Sacha
+I code in
+  -C# but can't C#
+  -Java
+  -C++ and C++/CLI on the .NET Framework
