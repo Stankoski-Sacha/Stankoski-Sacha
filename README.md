@@ -1,5 +1,5 @@
--👋 Hi, I’m @Stankoski-Sacha
--I code in
--C# but can't C#
--Java
--C++ and C++/CLI on the .NET Framework
+Hi, I code
+
+I code in C# but yet can't C#, 
+Code in Java and hate myself for it
+Coding in C++ and C++/CLI on the .NET Framework
