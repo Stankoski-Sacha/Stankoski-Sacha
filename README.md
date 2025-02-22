@@ -2,7 +2,8 @@ I code
 
 I code in C# but yet can't C# 
 
-![1200px-Logo_C_sharp svg](https://github.com/user-attachments/assets/af662af3-c1c5-46fc-8c64-ab93eca4c3a5)
+
+![C#](https://github.com/user-attachments/assets/df959238-a108-4659-a45d-8823b0d778a3)
 
 
 Code in Java and hate myself for it
