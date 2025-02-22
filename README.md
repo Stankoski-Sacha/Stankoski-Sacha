@@ -2,7 +2,7 @@ I code
 
 I code in C# but yet can't C# 
 
-![OIP](https://github.com/user-attachments/assets/bf1ac353-58ee-4f1f-bbe9-bf7bf1a93951)
+![1200px-Logo_C_sharp svg](https://github.com/user-attachments/assets/af662af3-c1c5-46fc-8c64-ab93eca4c3a5)
 
 
 Code in Java and hate myself for it
