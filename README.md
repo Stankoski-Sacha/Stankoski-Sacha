@@ -1,11 +1,10 @@
 I code
 
-I code in C# but yet can't C# 
+I code in C++, have coded a lot of std:: but have no standarts
 
 
-![C#](https://github.com/user-attachments/assets/df959238-a108-4659-a45d-8823b0d778a3)
+![Cpp](https://github.com/user-attachments/assets/a10e9ef3-5a94-4aaf-aeaf-e32e50e5a140)
 
+Also I code in C# yet never C# with my eyes, and in the worse C# Java. 
 
-Code in Java and hate myself for it
-
-Coding in C++ and C++/CLI on the .NET Framework
+As well as cursed C++/CLI 
