@@ -3,7 +3,7 @@
 ## 💻 About Me
 - Passionate programmer, mostly coding in **C++** (working toward my own standards).  
 - Also experienced in **C#** and **Java**, with occasional dives into **C**.  
-- Currently experimenting with a **custom shell in C++** (GUI might come... or not 👀).  
+- Currently experimenting with a **custom shell in C++ (GUI)** (might come... or not 👀).  
 
 ## 🚀 Projects
 - **Task Manager (C#)** – WinForms app with JSON persistence, task analytics, and a Pomodoro timer.  
