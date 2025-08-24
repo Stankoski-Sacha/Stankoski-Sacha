@@ -6,7 +6,6 @@
 - Currently experimenting with a **custom shell in C++ (GUI)** (might come... or not 👀).  
 
 ## 🚀 Projects
-- **Task Manager (C#)** – WinForms app with JSON persistence, task analytics, and a Pomodoro timer.  
 - **Shell (C++)** – Using **SDL2** as the main GUI component.  
 
 ## ❤️ What I Like About C++
