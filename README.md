@@ -15,7 +15,7 @@
 - Flexing on JS developer  
 
 ## 💀 What I Hate About C++
-- *Yes.*  
+- *A lot* 
 
 
 
