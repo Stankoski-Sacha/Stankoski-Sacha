@@ -6,7 +6,7 @@
 - Currently experimenting with a **custom shell in C++ (GUI)** (might come... or not 👀).  
 
 ## 🚀 Projects
-- **Shell (C++)** – Using **SDL2** as the main GUI component.  
+- **GUI++ (C++)** – Making a programming language to make nice GUIs using **SDL2** and **C++** as backend.  
 
 ## ❤️ What I Like About C++
 - The power of templates and the STL  
