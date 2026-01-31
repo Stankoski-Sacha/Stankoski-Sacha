@@ -16,9 +16,3 @@
 
 ## What I Hate About C++
 - *A lot* 
-
-
-
-
-![Cpp](https://github.com/user-attachments/assets/a10e9ef3-5a94-4aaf-aeaf-e32e50e5a140)
-
