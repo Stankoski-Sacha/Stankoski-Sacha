@@ -3,7 +3,7 @@
 ## About Me
 - Passionate programmer, mostly coding in **C++** (working toward my own standards).  
 - Also experienced in **C#** and **Java**, with occasional dives into **C**.  
-- Currently experimenting with a **custom shell in C++ (GUI)** (might come... or not 👀).  
+- Currently experimenting with a **Compiler**.
 
 ## Projects
 - **GUI++ (C++)** – Making a programming language to make nice GUIs using **SDL2** and **C++** as backend (Still in progress).
