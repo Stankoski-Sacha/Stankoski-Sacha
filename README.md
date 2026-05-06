@@ -1,4 +1,4 @@
-# Sacha
+# Sacha Stankoski
 
 Systems programmer and full-stack developer with a focus on low-level C++ and language tooling.
 
